@@ -9,5 +9,6 @@
 
 ## Hands-on to do:
 1. Create first-job with "Hello world" build it and analyse the Console output.
-2. Understand to nstall a plugin "Simple theme" and configure it to apply.
-3. Delete an installed plugin and create a user.
+2. Understand to install a plugin "Simple theme" and configure it to apply. Delete an installed plugin
+3. Create a user and provide role based permissions.
+4. Understand use of Git plugins and Clean workspace.
