@@ -12,3 +12,9 @@
 2. Understand to install a plugin "Simple theme" and configure it to apply. Delete an installed plugin
 3. Create a user and provide role based permissions.
 4. Understand use of Git plugins and Clean workspace.
+------------
+1. Created a job named "demo-sec" and attempled the build failure due to wrong command.
+  <img width="925" alt="jenkins-wrong-build" src="https://github.com/user-attachments/assets/3de8c540-5f92-4100-8ec7-877db6da37ac">
+
+   In the above picture red border shows the job failure and there is cloudy wether due to this failure.
+
