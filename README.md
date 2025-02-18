@@ -28,9 +28,18 @@
 2. Understand to install a plugin "Simple theme" and configure it to apply. Delete an installed plugin
 3. Create a user and provide role based permissions.
 4. Understand use of Git plugins and Clean workspace.
+5. GitHub Autobuild
+6. Email Notification on Deployment failure
 ------------
 1. Created a job named "demo-sec" and attempled the build failure due to wrong command.
   <img width="925" alt="jenkins-wrong-build" src="https://github.com/user-attachments/assets/3de8c540-5f92-4100-8ec7-877db6da37ac">
 
    In the above picture red border shows the job failure and there is cloudy wether due to this failure.
+
+### 6. Email Notification on Deployment failure
+
+
+<img width="922" alt="jenkins-poll-scm" src="https://github.com/user-attachments/assets/398f53ab-3b8f-467e-b51b-1aedaeb5aeb7" />
+<img width="920" alt="jenkins-smtp1" src="https://github.com/user-attachments/assets/3a154da1-5293-465a-b91c-f3b856243a9b" />
+
 
